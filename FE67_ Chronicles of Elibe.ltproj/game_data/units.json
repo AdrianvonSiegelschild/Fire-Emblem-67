@@ -3436,26 +3436,26 @@
         "klass": "Pegasus_Knight",
         "tags": [],
         "bases": {
-            "HP": 41,
-            "STR": 17,
-            "MAG": 2,
-            "SKL": 12,
-            "SPD": 12,
-            "LCK": 8,
-            "DEF": 17,
-            "RES": 9,
+            "HP": 21,
+            "STR": 8,
+            "MAG": 7,
+            "SKL": 11,
+            "SPD": 13,
+            "LCK": 6,
+            "DEF": 6,
+            "RES": 7,
             "CON": 15,
             "MOV": 6
         },
         "growths": {
-            "HP": 85,
-            "STR": 55,
-            "MAG": 5,
-            "SKL": 40,
-            "SPD": 30,
-            "LCK": 20,
-            "DEF": 45,
-            "RES": 30,
+            "HP": 70,
+            "STR": 35,
+            "MAG": 50,
+            "SKL": 60,
+            "SPD": 50,
+            "LCK": 30,
+            "DEF": 20,
+            "RES": 50,
             "CON": 0,
             "MOV": 0
         },
@@ -3523,47 +3523,43 @@
     {
         "nid": "Pent",
         "name": "Pent",
-        "desc": "A courageous general in Grado\u2019s army. He\u2019s better known as Obsidian.",
+        "desc": "Marquess of Reglay. Sole student of Archsage Athos.",
         "variant": null,
-        "level": 9,
-        "klass": "Great_Knight",
+        "level": 6,
+        "klass": "Sage",
         "tags": [],
         "bases": {
-            "HP": 41,
-            "STR": 17,
-            "MAG": 2,
-            "SKL": 12,
-            "SPD": 12,
-            "LCK": 8,
-            "DEF": 17,
-            "RES": 9,
+            "HP": 33,
+            "STR": 11,
+            "MAG": 18,
+            "SKL": 21,
+            "SPD": 17,
+            "LCK": 14,
+            "DEF": 11,
+            "RES": 18,
             "CON": 15,
             "MOV": 6
         },
         "growths": {
-            "HP": 85,
-            "STR": 55,
-            "MAG": 5,
-            "SKL": 40,
-            "SPD": 30,
-            "LCK": 20,
-            "DEF": 45,
-            "RES": 30,
+            "HP": 50,
+            "STR": 30,
+            "MAG": 35,
+            "SKL": 20,
+            "SPD": 40,
+            "LCK": 40,
+            "DEF": 30,
+            "RES": 35,
             "CON": 0,
             "MOV": 0
         },
         "stat_cap_modifiers": {},
         "starting_items": [
             [
-                "Silver_Lance",
+                "Heal",
                 false
             ],
             [
-                "Silver_Axe",
-                false
-            ],
-            [
-                "Vulnerary",
+                "Fire",
                 false
             ]
         ],
@@ -3572,17 +3568,17 @@
         "wexp_gain": {
             "Sword": [
                 false,
-                181,
+                0,
                 251
             ],
             "Lance": [
                 false,
-                181,
+                0,
                 251
             ],
             "Axe": [
                 false,
-                181,
+                0,
                 251
             ],
             "Bow": [
@@ -3592,7 +3588,7 @@
             ],
             "Staff": [
                 false,
-                0,
+                121,
                 251
             ],
             "Light": [
@@ -3602,7 +3598,7 @@
             ],
             "Anima": [
                 false,
-                0,
+                251,
                 251
             ],
             "Dark": [
@@ -3624,31 +3620,31 @@
     {
         "nid": "Louise",
         "name": "Louise",
-        "desc": "A courageous general in Grado\u2019s army. He\u2019s better known as Obsidian.",
+        "desc": "The wife of Marquess Reglay. A lethal beauty.",
         "variant": null,
-        "level": 9,
-        "klass": "Great_Knight",
+        "level": 12,
+        "klass": "Sniper",
         "tags": [],
         "bases": {
-            "HP": 41,
-            "STR": 17,
-            "MAG": 2,
-            "SKL": 12,
-            "SPD": 12,
-            "LCK": 8,
-            "DEF": 17,
-            "RES": 9,
+            "HP": 28,
+            "STR": 12,
+            "MAG": 12,
+            "SKL": 14,
+            "SPD": 17,
+            "LCK": 16,
+            "DEF": 9,
+            "RES": 12,
             "CON": 15,
             "MOV": 6
         },
         "growths": {
-            "HP": 85,
-            "STR": 55,
-            "MAG": 5,
+            "HP": 60,
+            "STR": 40,
+            "MAG": 30,
             "SKL": 40,
-            "SPD": 30,
-            "LCK": 20,
-            "DEF": 45,
+            "SPD": 40,
+            "LCK": 30,
+            "DEF": 20,
             "RES": 30,
             "CON": 0,
             "MOV": 0
@@ -3656,15 +3652,7 @@
         "stat_cap_modifiers": {},
         "starting_items": [
             [
-                "Silver_Lance",
-                false
-            ],
-            [
-                "Silver_Axe",
-                false
-            ],
-            [
-                "Vulnerary",
+                "Iron_Bow",
                 false
             ]
         ],
@@ -3673,22 +3661,22 @@
         "wexp_gain": {
             "Sword": [
                 false,
-                181,
+                0,
                 251
             ],
             "Lance": [
                 false,
-                181,
+                0,
                 251
             ],
             "Axe": [
                 false,
-                181,
+                0,
                 251
             ],
             "Bow": [
                 false,
-                0,
+                251,
                 251
             ],
             "Staff": [
@@ -3725,47 +3713,39 @@
     {
         "nid": "Karel",
         "name": "Karel",
-        "desc": "A courageous general in Grado\u2019s army. He\u2019s better known as Obsidian.",
+        "desc": "An eastern swordmaster. Seeking worthy opponents.",
         "variant": null,
-        "level": 9,
-        "klass": "Great_Knight",
+        "level": 8,
+        "klass": "Swordmaster",
         "tags": [],
         "bases": {
-            "HP": 41,
-            "STR": 17,
-            "MAG": 2,
-            "SKL": 12,
-            "SPD": 12,
-            "LCK": 8,
-            "DEF": 17,
-            "RES": 9,
+            "HP": 31,
+            "STR": 16,
+            "MAG": 12,
+            "SKL": 23,
+            "SPD": 20,
+            "LCK": 15,
+            "DEF": 13,
+            "RES": 12,
             "CON": 15,
             "MOV": 6
         },
         "growths": {
-            "HP": 85,
-            "STR": 55,
-            "MAG": 5,
-            "SKL": 40,
-            "SPD": 30,
-            "LCK": 20,
-            "DEF": 45,
-            "RES": 30,
+            "HP": 70,
+            "STR": 30,
+            "MAG": 15,
+            "SKL": 50,
+            "SPD": 50,
+            "LCK": 30,
+            "DEF": 10,
+            "RES": 15,
             "CON": 0,
             "MOV": 0
         },
         "stat_cap_modifiers": {},
         "starting_items": [
             [
-                "Silver_Lance",
-                false
-            ],
-            [
-                "Silver_Axe",
-                false
-            ],
-            [
-                "Vulnerary",
+                "Iron_Sword",
                 false
             ]
         ],
@@ -3774,17 +3754,17 @@
         "wexp_gain": {
             "Sword": [
                 false,
-                181,
+                251,
                 251
             ],
             "Lance": [
                 false,
-                181,
+                0,
                 251
             ],
             "Axe": [
                 false,
-                181,
+                0,
                 251
             ],
             "Bow": [
@@ -3826,47 +3806,43 @@
     {
         "nid": "Harken",
         "name": "Harken",
-        "desc": "A courageous general in Grado\u2019s army. He\u2019s better known as Obsidian.",
+        "desc": "The sole survivor of the Knights of Pherae.",
         "variant": null,
-        "level": 9,
-        "klass": "Great_Knight",
+        "level": 8,
+        "klass": "Hero",
         "tags": [],
         "bases": {
-            "HP": 41,
-            "STR": 17,
-            "MAG": 2,
-            "SKL": 12,
-            "SPD": 12,
-            "LCK": 8,
-            "DEF": 17,
-            "RES": 9,
+            "HP": 38,
+            "STR": 21,
+            "MAG": 10,
+            "SKL": 20,
+            "SPD": 17,
+            "LCK": 12,
+            "DEF": 15,
+            "RES": 10,
             "CON": 15,
             "MOV": 6
         },
         "growths": {
-            "HP": 85,
-            "STR": 55,
-            "MAG": 5,
-            "SKL": 40,
-            "SPD": 30,
+            "HP": 80,
+            "STR": 35,
+            "MAG": 25,
+            "SKL": 30,
+            "SPD": 40,
             "LCK": 20,
-            "DEF": 45,
-            "RES": 30,
+            "DEF": 30,
+            "RES": 25,
             "CON": 0,
             "MOV": 0
         },
         "stat_cap_modifiers": {},
         "starting_items": [
             [
-                "Silver_Lance",
+                "Iron_Sword",
                 false
             ],
             [
-                "Silver_Axe",
-                false
-            ],
-            [
-                "Vulnerary",
+                "Iron_Axe",
                 false
             ]
         ],
@@ -3880,7 +3856,7 @@
             ],
             "Lance": [
                 false,
-                181,
+                0,
                 251
             ],
             "Axe": [
