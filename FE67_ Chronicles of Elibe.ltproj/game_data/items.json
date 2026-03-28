@@ -11450,7 +11450,7 @@
         "nid": "Broken_sword",
         "name": "Broken sword",
         "desc": "",
-        "icon_nid": null,
+        "icon_nid": "Sword",
         "icon_index": [
             0,
             0
@@ -11493,10 +11493,6 @@
                 "Sword"
             ],
             [
-                "weapon_rank",
-                "C"
-            ],
-            [
                 "wexp",
                 1
             ],
@@ -11518,7 +11514,7 @@
         "nid": "Broken_Lance",
         "name": "Broken Lance",
         "desc": "",
-        "icon_nid": null,
+        "icon_nid": "Lance",
         "icon_index": [
             0,
             0
@@ -11561,10 +11557,6 @@
                 "Lance"
             ],
             [
-                "weapon_rank",
-                "C"
-            ],
-            [
                 "min_range",
                 1
             ],
@@ -11586,7 +11578,7 @@
         "nid": "Broken_Axe",
         "name": "Broken Axe",
         "desc": "",
-        "icon_nid": null,
+        "icon_nid": "Axe",
         "icon_index": [
             0,
             0
@@ -11627,10 +11619,6 @@
             [
                 "weapon_type",
                 "Axe"
-            ],
-            [
-                "weapon_rank",
-                "C"
             ],
             [
                 "min_range",
@@ -11654,7 +11642,7 @@
         "nid": "Broken_Bow",
         "name": "Broken Bow",
         "desc": "",
-        "icon_nid": null,
+        "icon_nid": "Bow",
         "icon_index": [
             0,
             0
@@ -11694,11 +11682,7 @@
             ],
             [
                 "weapon_type",
-                "Axe"
-            ],
-            [
-                "weapon_rank",
-                "C"
+                "Bow"
             ],
             [
                 "min_range",
@@ -11734,7 +11718,7 @@
         "nid": "Broken_Staff",
         "name": "Broken Staff",
         "desc": "",
-        "icon_nid": null,
+        "icon_nid": "Staff",
         "icon_index": [
             0,
             0
@@ -11749,20 +11733,32 @@
                 null
             ],
             [
+                "magic",
+                null
+            ],
+            [
                 "value",
                 0
             ],
             [
                 "weapon_type",
-                "Default"
+                "Staff"
+            ],
+            [
+                "min_range",
+                0
+            ],
+            [
+                "max_range",
+                0
             ]
         ]
     },
     {
-        "nid": "Drained_Tome",
+        "nid": "Drained_Tome_Fire",
         "name": "Drained Tome",
         "desc": "",
-        "icon_nid": null,
+        "icon_nid": "Anima",
         "icon_index": [
             0,
             0
@@ -11782,7 +11778,259 @@
             ],
             [
                 "weapon_type",
-                "Default"
+                "Fire"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "damage",
+                0
+            ],
+            [
+                "hit",
+                0
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                0
+            ],
+            [
+                "min_range",
+                0
+            ],
+            [
+                "max_range",
+                0
+            ]
+        ]
+    },
+    {
+        "nid": "Drained_Tome_Thunder",
+        "name": "Drained Tome",
+        "desc": "",
+        "icon_nid": "Anima",
+        "icon_index": [
+            0,
+            1
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "locked",
+                null
+            ],
+            [
+                "value",
+                0
+            ],
+            [
+                "weapon_type",
+                "Thunder"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "damage",
+                0
+            ],
+            [
+                "hit",
+                0
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                0
+            ],
+            [
+                "min_range",
+                0
+            ],
+            [
+                "max_range",
+                0
+            ]
+        ]
+    },
+    {
+        "nid": "Drained_Tome_Wind",
+        "name": "Drained Tome",
+        "desc": "",
+        "icon_nid": "Anima",
+        "icon_index": [
+            0,
+            5
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "locked",
+                null
+            ],
+            [
+                "value",
+                0
+            ],
+            [
+                "weapon_type",
+                "Wind"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "damage",
+                0
+            ],
+            [
+                "hit",
+                0
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                0
+            ],
+            [
+                "min_range",
+                0
+            ],
+            [
+                "max_range",
+                0
+            ]
+        ]
+    },
+    {
+        "nid": "Drained_Tome_Light",
+        "name": "Drained Tome",
+        "desc": "",
+        "icon_nid": "Light",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "locked",
+                null
+            ],
+            [
+                "value",
+                0
+            ],
+            [
+                "weapon_type",
+                "Light"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "damage",
+                0
+            ],
+            [
+                "hit",
+                0
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                0
+            ],
+            [
+                "min_range",
+                0
+            ],
+            [
+                "max_range",
+                0
+            ]
+        ]
+    },
+    {
+        "nid": "Drained_Tome_Dark",
+        "name": "Drained Tome",
+        "desc": "",
+        "icon_nid": "Dark",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "locked",
+                null
+            ],
+            [
+                "value",
+                0
+            ],
+            [
+                "weapon_type",
+                "Dark"
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "damage",
+                0
+            ],
+            [
+                "hit",
+                0
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                0
+            ],
+            [
+                "min_range",
+                0
+            ],
+            [
+                "max_range",
+                0
             ]
         ]
     }
