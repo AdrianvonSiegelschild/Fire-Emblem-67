@@ -77,7 +77,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ]
         ]
     },
@@ -148,7 +148,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ]
         ]
     },
@@ -219,7 +219,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ]
         ]
     },
@@ -330,7 +330,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -555,7 +555,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -701,7 +701,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -867,7 +867,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -1232,7 +1232,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ]
         ]
     },
@@ -1707,7 +1707,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "uses",
@@ -1778,7 +1778,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "uses",
@@ -1829,7 +1829,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -1975,7 +1975,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "uses",
@@ -2141,7 +2141,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "uses",
@@ -2409,7 +2409,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -2492,7 +2492,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -3022,7 +3022,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ]
         ]
     },
@@ -3093,7 +3093,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "wexp",
@@ -3208,7 +3208,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -3306,7 +3306,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ]
         ]
     },
@@ -3373,7 +3373,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "value",
@@ -3563,7 +3563,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -3646,7 +3646,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -3816,7 +3816,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "weight",
@@ -4317,7 +4317,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "effective_damage",
@@ -4369,7 +4369,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -4535,7 +4535,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -4792,7 +4792,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -4879,7 +4879,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -5030,7 +5030,7 @@
             ],
             [
                 "damage",
-                8
+                5
             ],
             [
                 "hit",
@@ -5061,7 +5061,7 @@
             ],
             [
                 "wexp",
-                4
+                0
             ],
             [
                 "min_range",
@@ -5069,11 +5069,11 @@
             ],
             [
                 "max_range",
-                10
+                6
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "siege_weapon",
@@ -5093,7 +5093,7 @@
                         "Flying"
                     ],
                     "effective_multiplier": 1.0,
-                    "effective_bonus_damage": 16,
+                    "effective_bonus_damage": 10,
                     "show_effectiveness_flash": true,
                     "weapon_effectiveness_multiplied": true
                 }
@@ -5163,7 +5163,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "siege_weapon",
@@ -5253,7 +5253,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "siege_weapon",
@@ -5316,7 +5316,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "uses",
@@ -5391,7 +5391,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -5679,7 +5679,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "uses",
@@ -5750,7 +5750,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -6279,7 +6279,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "uses",
@@ -6803,7 +6803,7 @@
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "map_hit_add_blend",
@@ -6855,7 +6855,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "magic",
@@ -7321,11 +7321,11 @@
             ],
             [
                 "weapon_type",
-                "Wind"
+                "Fire"
             ],
             [
                 "weapon_rank",
-                "E"
+                "C"
             ],
             [
                 "map_hit_add_blend",
@@ -7389,11 +7389,11 @@
             ],
             [
                 "weapon_type",
-                "Wind"
+                "Thunder"
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "map_hit_add_blend",
@@ -7472,7 +7472,7 @@
             ],
             [
                 "weapon_type",
-                "Wind"
+                "Fire"
             ],
             [
                 "weapon_rank",
@@ -7555,7 +7555,7 @@
             ],
             [
                 "weapon_type",
-                "Wind"
+                "Thunder"
             ],
             [
                 "weapon_rank",
@@ -7808,7 +7808,7 @@
             ],
             [
                 "weapon_rank",
-                "D"
+                "C"
             ],
             [
                 "map_hit_add_blend",
